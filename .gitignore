@@ -1,0 +1,6 @@
+dev-answer/
+generator/
+starter-polars/
+*.csv
+*.parquet
+*.zip
